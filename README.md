@@ -85,7 +85,7 @@ reddit-sentiment-analysis/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/reddit-sentiment-analysis.git
+git clone https://github.com/sakchham14/reddit-sentiment-analysis.git
 cd reddit-sentiment-analysis
 ```
 
@@ -302,10 +302,10 @@ This project is suitable for:
 If you use this project in your research, please cite:
 ```
 @software{reddit_sentiment_analysis,
-  author = {Your Name},
+  author = {Sakchham},
   title = {Reddit Sentiment Analysis: A Comprehensive ML Pipeline},
   year = {2024},
-  url = {https://github.com/yourusername/reddit-sentiment-analysis}
+  url = {https://github.com/sakchham14/reddit-sentiment-analysis}
 }
 ```
 
